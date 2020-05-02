@@ -9,5 +9,3 @@ def position_taken? (board, index)
     taken = true
 end
 end
-
-position_taken?
